@@ -1,2 +1,5 @@
 appl a day keeps doctor away
 orange are healthy too
+Vegs are good
+meats are healthy fir life
+git is open-source code
